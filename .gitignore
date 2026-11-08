@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.DS_Store
+*.log
+*.pt
+*.pth
+*.nii.gz
+data/
+checkpoints/
+results/
+.ipynb_checkpoints/
